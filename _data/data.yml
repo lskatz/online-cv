@@ -55,32 +55,36 @@ education:
       #details: |
       #  Describe your study here lorem ipsum dolor sit amet, consectetuer
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Senior bioinformatician
+      time: 2014 - present
+      company: DFWED, CDC
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Although stationed in a team in EDLB, much of my work affects the division.
+        * Facilitating interagency whole genome sequencing standards and analysis working group. This is a working group under the Genomics Food Safety collaboration (Gen-FS) between CDC, FDA, USDA, and NCBI. Determination of fact-based thresholds for whole genome sequencing to aid in the missions of CDC, FDA, USDA, and NCBI. Creation of whole genome sequencing benchmark datasets. Creation of a data download script. Datasets and script published in Timme et al 2017. I am senior author. I have also reached out to other labs at CDC including the Legionella lab to help contribute datasets. We meet once a month, and I facilitate the calls and record notes for the group.
+        * Facilitating international workgroup under the Global Microbial Identifier (GMI). My workgroup (workgroup 3) focuses on data analytics. Benchmark datasets from Gen-FS have been donated to this group and we have collected datasets from international partners.
+        * Advisor for GIGte, the monthly division-wide workshop in bioinformatics
+        * Member of MCT-DART
+        * In this role, I won an FIA to purchase a node in the SciComp cluster which we named Spaceball1. Although it costs $80k, it will save money long-term because no one will need to buy individual workstations. It is also more powerful than all or most individual computers at CDC right now.
+        * Member of MCT SIAG
+    - role: Senior bioinformatician
+    time: 2015 - present
+      company: BioMe, EDLB
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        * Supervisor Dr. Heather Carleton
+      acting team leads 2020-present: Drs. A. Jo Williams and Andrew Huang
+        * Comparing cgMLST methods on the command line (ChewBBACA, etc)
+        * Creating an ONT assembly workflow with Curtis Kapsak
+        * Creating a new metagenomics profiler with Henk Den Bakker called Sepia (He is the main developer)
+        * Developing custom metagenomics database for the Kraken suite
+        * Helped advise CFU bioinformatics when it was being created
+        * Developing rapid WGS tree-making pipeline called Mashtree. Provide assistance to users at CDC, nationally, and worldwide.
+        * Developing a genome sketches repository for rapid cluster detection using Mash, the HPC, and crontab
+        * Continued development of SneakerNet for other platforms and workflows, e.g., Ion Torrent, metagenomics
+        * Developing high-quality SNP pipeline called Lyve-SET at https://github.com/lskatz/Lyve-SET (Published in Frontiers). Seeking feedback from bioinformaticians, PulseNet, epidemiologists across my division at CDC.
+        * Maintaining hardware for EDLB
+        * Supervising technical working group, for teaching ourselves bioinformatics techniques. This group is called the Genome Interest Group, Technical (GIGte, "giggity").
+        * Founding member of the CDC-wide bioinformatics group BITCOP
+        * Experience with data from Illumina, 454, Ion Torrent, Oxford Nanopore, Pacific Biosciences (PacBio), Sanger
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
