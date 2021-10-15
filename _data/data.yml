@@ -125,6 +125,14 @@ projects:
             * About 460 "listens" per episode
             * Least listened episode is at 330
             * Reaches at least 50 countries of at least 10 listens each
+      - title: Microbial bioinformatics forum administrator
+        link: '#'
+        date: September 2016 -
+        tagline: |
+          * This workspace represents a new generation of international microbial bioinformaticians, with direct links to peers in all international major public health services, public health institutions, and affiliated universities.
+          * I developed a code of conduct for the forum, which describes actions not permitted, and actions that the administrators can take when there is a violation.
+          * The purpose is strictly not a help desk but is a place to get help directly from the source, e.g., understanding undocumented workflows or putting forth ideas directly with the author of a software package.
+
 
 publications:
     title: Publications

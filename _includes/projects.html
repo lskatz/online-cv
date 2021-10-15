@@ -25,6 +25,9 @@
         {% else %}
         {{ project.title }}
         {% endif %}
+        {% if project.date %}
+        <span style="font-weight:lighter">{{ project.date }}</span>
+        {% endif %}
       </span>
 
       {% if project.tagline %}
