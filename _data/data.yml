@@ -126,6 +126,26 @@ publications:
         authors: 'Katz LS, et al'
         conference: Frontiers in Microbiology
         year: 2017
+      - title: "Draft Genome Sequence of Environmental Vibrio cholerae 2012EL-1759 with Similarities to the V. cholerae O1 Classical Biotype"
+        authors: 'Katz LS, et al'
+        conference: Genome Announcements
+        year: 2014
+      - title: "Evolutionary dynamics of Vibrio cholerae O1 following a single source introduction in Haiti"
+        authors: 'Katz LS, et al'
+        year: 2013
+        conference: Mbio
+      - title: "Neisseria Base: a comparative genomics database for Neisseria meningitidis"
+        authors: 'Katz LS, et al'
+        year: 2011
+        conference: The Journal of Biological Databases and Curation
+      - title: "Using SNPs to Discriminate Virulent from Carriage Genomes of Neisseria meningitidis"
+        authors: 'Katz LS, et al'
+        year: 2011
+        conference: Journal of Bacteriology
+      - title "Meningococcus Genome Informatics Platform: a System for Analyzing Multilocus Sequence Typing Data"
+        authors: 'Katz LS, et al'
+        year: 2009
+        conference: "Nucleic Acids Research 37:Web Server Issue"
 
 skills:
     title: Skills &amp; Proficiency
