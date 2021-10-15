@@ -9,7 +9,8 @@ sidebar:
     # Profile information
     name: Lee S. Katz
     tagline: Senior bioinformatician
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    #avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: 'https://en.gravatar.com/userimage/75727/18258fb7c18220200cf55506f1905bf7.jpg?size=200' #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: gzu2@cdc.gov
