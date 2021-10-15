@@ -135,6 +135,43 @@ projects:
           * This workspace represents a new generation of international microbial bioinformaticians, with direct links to peers in all international major public health services, public health institutions, and affiliated universities.
           * I developed a code of conduct for the forum, which describes actions not permitted, and actions that the administrators can take when there is a violation.
           * The purpose is strictly not a help desk but is a place to get help directly from the source, e.g., understanding undocumented workflows or putting forth ideas directly with the author of a software package.
+      - title: Spaceball1 computer for DFWED/MCT-DART
+        date: 2020
+        tagline: |
+          Received an FIA (Fund If Available) for a 192-thread computer lovingly named Spaceball1. $80k
+          * hosted in scicomp
+          * 1.5 TB RAM, 192 threads, 6T fast scratch space
+          * I am the point of contact
+          * Saves the division money by obviating any local scientific workstations
+          * More powerful than virtually all other computers at CDC
+      - title: Emerging Leadership Certificate Program
+        date: "June 2018 - Oct 2018"
+        tagline: |
+          * Learning skills for leadership including interpersonal, leadership, and communication skills.
+            * Several classes June 2018 - Oct 2018
+            * The next level: powering your potential
+            * Decision mojo
+            * Strategic thinking
+            * Think like a leader and collaborate between groups
+            * The art of communication
+            * Build a powerful professional brand
+          * 360 review - 6 colleagues gave feedback on how I am in the workplace
+          * Major project, completed Oct 2018. Created a plan along with four others in my cohort to create a career counselor professional at CDC, career days, and improvements on the trainings intranet site.
+      - title: Nakano Citation, NCEZID/CDC
+        date: 2017
+        tagline: For one of the best laboratory papers of 2017 in the NCEZID center in CDC (Lyve-SET paper)
+      - title: Shepard award nomination, CDC
+        date: 2017
+        tagline: For best laboratory manuscript
+      - title: CDC award
+        date: 2015
+        tagline: For the Listeria whole genome sequencing project
+      - title: NCEZID award
+        date: 2015
+        tagline: For the Listeria whole genome sequencing project
+      - title: HHS Innovates Secretary's Pick award
+        date: 2014
+        tagline: For a project in The Department of Health and Human Services which shows innovation to solve important challenges in the workplace. The Secretary of HHS chose the project herself. This award was given for the Listeria project "Whole Genome Sequencing: Future of Food Safety."
 
 
 publications:
