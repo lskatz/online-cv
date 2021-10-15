@@ -129,10 +129,53 @@ experiences:
         * Reinfections project
         * Gave 101 presentation to clinical people on genomics
         * Published reinfections paper - James Lee et al 2021
-    - role: LYVE Lab
-      time: 
-      company: 
-      details: 
+    - role: Senior bioinformatician
+      time: 2011 - 2015
+      company: LYVE Lab
+      details: |
+        * Analyzing genomes of L. monocytogenes from clinical and food samples across the United States and the world.
+        * Providing phylogenies of whole genomes for the purposes of molecular epidemiology
+        * Helped investigate outbreak cases in Crave Brothers Cheese, Roos Foods, and many unsolved cases
+        * Creation of SneakerNet. This bioinformatics workflow is how we quality-control all raw reads from an Illumina instrument (read counts, quality scores, contamination detection), transfer data to the data repository, and email a report. I also created a job aid under QMS for following the SneakerNet protocol. Concurrently, I also helped in other QMS documents for data transfer and QC such as the Access database protocol.
+        * Creation of a data repository. With colleagues, administered a 40TB machine to hold all raw data and a data recovery plan. Also created network folders accessible to Windows machines with read only access. Created the file structure needed for long term organization.
+        * Uploading data to SRA immediately after sequencing. I developed and followed a protocol for sending sequences to SRA. I also developed a job aid under QMS for uploading sequences to SRA.
+        * Contracting company IHRC until 2012; converted in 2012 to title 42 (GS-13, 601 job series). Began using CDC administrative tools such as PMAS.
+      Studying virulence factors in whole genomes of Vibrio spp.
+        * Studying Haiti cholera outbreak through comparative genomics. Studying in vivo evolution of V. cholerae. Helped choose isolates to sequence based on PFGE patterns. Katz et al 2013.
+        * Predicting PCR assay targets for serogroups O75 and O141 (from recent US outbreaks) Characterizing an Iraqi genome with an odd phage arrangement
+        * Continuing as lead developer for CG-Pipeline and MGIP, but also transferring duties for MGIP development back to the Meningitis and Jordan Labs
+        * Real time genomics
+          * Analyzing genomes of L. monocytogenes from clinical and food samples across the United States and the world.
+          * Providing phylogenies of whole genomes for the purposes of molecular epidemiology
+          * Helped investigate outbreak cases in Crave Brothers Cheese, Roos Foods, and many unsolved cases
+          * Creation of SneakerNet. This bioinformatics workflow is how we quality-control all raw reads from an Illumina instrument (read counts, quality scores, contamination detection), transfer data to the data repository, and email a report. I also created a job aid under QMS for following the SneakerNet protocol. Concurrently, I also helped in other QMS documents for data transfer and QC such as the Access database protocol.
+          * Creation of a data repository. With colleagues, administered a 40TB machine to hold all raw data and a data recovery plan. Also created network folders accessible to Windows machines with read only access. Created the file structure needed for long term organization.
+          * Uploading data to SRA immediately after sequencing. I developed and followed a protocol for sending sequences to SRA. I also developed a job aid under QMS for uploading sequences to SRA.
+        * Computational genomics of Vibrio
+          * Studying virulence factors in whole genomes of Vibrio spp.
+          * Studying Haiti cholera outbreak through comparative genomics. Studying in vivo evolution of V. cholerae. Helped choose isolates to sequence based on PFGE patterns. Katz et al 2013.
+          * Predicting PCR assay targets for serogroups O75 and O141 (from recent US outbreaks)
+          * Characterizing an Iraqi genome with an odd phage arrangement
+        * Computational genomics of STEC
+          * Acting as a bioinformatics liaison between Expression Analysis who generated PacBio and Illumina data for 250 STEC genomes, my branch at CDC, and the SRA contracting group who is analyzing the data.
+          * Also working as a bioinformatics liaison with DNAStar for additional analysis of the sequencing data.
+          * Searching for a core genome, for making a whole genome MLST scheme Several additional analyses
+          * Creating a standardized pipeline for analyzing PacBio data, for use in CG-Pipeline
+        * Metagenomics of stool
+          * Planning a metagenomics project where DNA in stool is sequenced.
+          * Pathogen discovery
+          * Source attribution
+    - role: Bioinformatician
+      time: 2010 - 2011
+      company: Meningitis Lab
+      details: |
+        * Supervisor Dr. L. W. Mayer, Contracting company Logistics Health Incorporated
+        * Collaborating with the Jordan Lab, Georgia Institute of Technology
+        * Lead developer of CG-Pipeline (see publications and nbase.biology.gatech.edu)
+        * Lead developer of NBase (see publications and nbase.biology.gatech.edu)
+        * Working on species molecular typing between Haemophilus influenzae and H. haemolyticus; molecular typing on Neisseria meningitidis and Bordetella spp.
+        * Studying antimicrobial resistance mutations for rifampin, penicillin, and ciprofloxacin
+        * Some overlap with finishing my dissertation between September and November
 
 projects:
     title: Chairing and awards
