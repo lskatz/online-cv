@@ -171,8 +171,19 @@ projects:
         tagline: For the Listeria whole genome sequencing project
       - title: HHS Innovates Secretary's Pick award
         date: 2014
-        tagline: For a project in The Department of Health and Human Services which shows innovation to solve important challenges in the workplace. The Secretary of HHS chose the project herself. This award was given for the Listeria project "Whole Genome Sequencing: Future of Food Safety."
-
+        tagline: For a project in The Department of Health and Human Services which shows innovation to solve important challenges in the workplace. The Secretary of HHS chose the project herself. This award was given for the Listeria project Whole Genome Sequencing: Future of Food Safety.
+      - title: Nakano Citation
+        date: 2014
+        tagline: For one of the best papers of 2013 in the NCEZID center in CDC. The paper was the Haiti cholera paper.
+      - title: Shepard Award 2014 nomination
+        date: 2013
+        tagline: For best paper at CDC under the laboratory science category, namely the Haiti cholera work
+      - title: Breakfast with the Director
+        date: 2012
+        tagline: |
+          A select few from CDC are chosen to have breakfast with the director of CDC to discuss ideas. I was able to introduce the idea of a bioinformatics internship program with the director. Since then, several higher-level committees have been discussing how best to implement an internship program with several universities such as GA Tech. This eventually culminated, driven by higher-ups at CDC and not driven by me, into a bioinformatics fellowship under APHL.
+      - title: Certificate of Appreciation
+        date: 2011
 
 publications:
     title: Publications
