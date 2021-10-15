@@ -91,6 +91,7 @@ projects:
       and awards/grants that I have earned
     assignments:
       - title: ASM NGS Hackathon, organizer and chair
+        date: 2020
         link: "https://github.com/microbinfie-hackathon2020/CSIS"
         tagline: |
           * Objective: to create continuous integration on bioinformatics software.
@@ -107,10 +108,12 @@ projects:
           * Facilitated a happy hour with a trivia night
       - title: Microbinfie virtual lab talks co-facilitator and co-chair
         link: https://www.youtube.com/playlist?list=PLutg7pT5QK4RV9_eo_NHZX1nd48kkw1-Q
+        date: 2019 - 2020
         tagline: |
           Hosted a virtual lab talk once a month and recorded the talks.
           Each talk is 15 or 20 minutes plus Q&A, for a total of 1-hour sessions.
-      - title: Microbinfie podcast host
+      - title: Microbinfie podcast host 
+        date: 2019 -
         link: "https://soundcloud.com/microbinfie"
         tagline: |
           * Podcast discusses topics in the intersection of bioinformatics and public health
