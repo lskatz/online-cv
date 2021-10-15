@@ -84,6 +84,31 @@ experiences:
         * Supervising technical working group, for teaching ourselves bioinformatics techniques. This group is called the Genome Interest Group, Technical (GIGte, "giggity").
         * Founding member of the CDC-wide bioinformatics group BITCOP
         * Experience with data from Illumina, 454, Ion Torrent, Oxford Nanopore, Pacific Biosciences (PacBio), Sanger
+    - role: COVID-19 response, CDC
+      time: August 2020 - April 2021
+      company: CDC
+      details: |
+        *DFWED/NWSS/tiger team - Oct 2021 - Dec 2021*
+        * NWSS created a tiger team with members across the division
+        * NWSS objective is to create a set of standards for wastewater SARS-CoV-2 metagenomics sequencing and analysis
+        * Supporting the team with bioinformatics insights
+        * Guiding the bioinformatics activities
+        *Team lead, Technical Outreach and Assistances to States Team (TOAST) - Jan 2021-April 2021"*
+        * Team Lead for 10 members, plus me
+        * Under OAMD; my supervisors were Greg Armstrong and Duncan MacCannell
+        * Provided technical assistance to state/local labs
+        * Gave two SPHERES talks of 15 minutes each
+        * Created "menu" of protocols on protocols.io
+        * Benchmark datasets - paper is being planned. 5 datasets of 1 outbreak, 2 coronahit datasets, 1 of various lineages, 1 of bad data.
+          * Manuscript in preparation
+        * Data viz recommendations
+        * One-off help
+        * Created system to triage questions
+        * Created and led TOAST office hours, similar to 50 state calls 1/wk
+        * Led BRR calls 1/wk
+        * Gap analysis/needs assessment with fishbone diagram
+
+
 projects:
     title: Chairing and awards
     intro: >
@@ -144,6 +169,12 @@ projects:
           * I am the point of contact
           * Saves the division money by obviating any local scientific workstations
           * More powerful than virtually all other computers at CDC
+      - title: Seed grant, Center for Food Safety, University of GA
+        date: 2019
+        tagline: To develop the Mashpit genomic epidemiology platform. Collaborators are Xiangyu Deng and Henk Den Bakker. ($30k)
+      - title: Seed grant, Center for Food Safety, University of GA
+        date: 2018
+        tagline: To develop the Kalamari metagenomics database. Collaborators are Xiangyu Deng and Henk Den Bakker. ($30k)
       - title: Emerging Leadership Certificate Program
         date: "June 2018 - Oct 2018"
         tagline: |
@@ -188,12 +219,6 @@ projects:
       - title: Partners in Public Health Improvement Award
         date: 2009
         tagline: Given by CDC to a team of collaborators who improve upon a public health initiative. I was a graduate student in the Jordan lab, collaborating with the Meningitis Laboratory at CDC.
-      - title: Seed grant, Center for Food Safety, University of GA
-        date: 2019
-        tagline: To develop the Mashpit genomic epidemiology platform. Collaborators are Xiangyu Deng and Henk Den Bakker. ($30k)
-      - title: Seed grant, Center for Food Safety, University of GA
-        date: 2018
-        tagline: To develop the Kalamari metagenomics database. Collaborators are Xiangyu Deng and Henk Den Bakker. ($30k)
       - title: Grant for Research Dissertation, CDC
         date: 2008
         tagline: A grant to fund my dissertation. Microbial Genome Informatics Platform. a Computational Resource for Computational Genomics. (1R36GD000075-01) ($37,386).
