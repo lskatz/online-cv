@@ -120,7 +120,12 @@ publications:
         link: "#"
         authors: Katz LS, et al
         conference: JOSS
-        date: 2019
+        year: 2019
+      - title: "A Comparative Analysis of the Lyve-SET Phylogenomics Pipeline for Genomic Epidemiology of Foodborne Pathogens"
+        link: '#'
+        authors: 'Katz LS, et al'
+        conference: Frontiers in Microbiology
+        year: 2017
 
 skills:
     title: Skills &amp; Proficiency
