@@ -85,31 +85,19 @@ experiences:
         * Founding member of the CDC-wide bioinformatics group BITCOP
         * Experience with data from Illumina, 454, Ion Torrent, Oxford Nanopore, Pacific Biosciences (PacBio), Sanger
 projects:
-    title: Projects
+    title: Chairing and awards
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      These are a list of activities that I host or help host,
+      and awards/grants that I have earned
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: ASM NGS Hackathon, organizer and chair
+        link: "https://github.com/microbinfie-hackathon2020/CSIS"
+        tagline: |
+          * Objective: to create continuous integration on bioinformatics software.
+          * Organized about 20 participants around the ASM NGS conference.
+          * Invited and hosted a keynote speaker.
+          * Created an environment on Zoom and Discord.
+          * The hackathon is resulting in a publication for recommendations in bioinformatics software testing. This is in preparation: Putten et al, MBio.
 
 publications:
     title: Publications
@@ -153,13 +141,14 @@ skills:
     toolset:
       - name: perl
         level: 90%
-
+      - name: rust
+        level: 30%
       - name: "Web (HTML/JS/CSS/PHP)"
         level: 20%
       - name: python
         level: 20%
-      - name: rust
-        level: 30%
+      - name: R
+        level: 20%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
