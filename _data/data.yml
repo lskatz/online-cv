@@ -67,7 +67,7 @@ experiences:
         * In this role, I won an FIA to purchase a node in the SciComp cluster which we named Spaceball1. Although it costs $80k, it will save money long-term because no one will need to buy individual workstations. It is also more powerful than all or most individual computers at CDC right now.
         * Member of MCT SIAG
     - role: Senior bioinformatician
-    time: 2015 - present
+      time: 2015 - present
       company: BioMe, EDLB
       details: |
         * Supervisor Dr. Heather Carleton
@@ -85,17 +85,6 @@ experiences:
         * Supervising technical working group, for teaching ourselves bioinformatics techniques. This group is called the Genome Interest Group, Technical (GIGte, "giggity").
         * Founding member of the CDC-wide bioinformatics group BITCOP
         * Experience with data from Illumina, 454, Ion Torrent, Oxford Nanopore, Pacific Biosciences (PacBio), Sanger
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
 projects:
     title: Projects
     intro: >
