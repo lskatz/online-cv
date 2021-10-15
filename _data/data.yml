@@ -154,7 +154,7 @@ skills:
       - name: perl
         level: 90%
 
-      - name: Web (HTML/JS/CSS/PHP)
+      - name: "Web (HTML/JS/CSS/PHP)"
         level: 20%
       - name: python
         level: 20%
