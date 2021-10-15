@@ -114,11 +114,9 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      These are my selected publications
     papers:
-      - title: Mashtree: a rapid comparison of whole genome sequence files
+      - title: "Mashtree: a rapid comparison of whole genome sequence files"
         link: "#"
         authors: Katz LS, et al
         conference: JOSS
