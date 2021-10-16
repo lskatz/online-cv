@@ -26,6 +26,8 @@ FEATURES             Location/Qualifiers
 {% assign i = i | plus: 1 %}
 {% assign mod = i | modulo: 60 %}
 {% assign note = note | append: word | append: " " %}
+{% if mod == 0 %}
+{% endif %}
 {% endfor %}
      CDS             1..10
                      /note="{{ note }}"
