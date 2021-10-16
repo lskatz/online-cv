@@ -18,33 +18,17 @@ DEFINITION  Worked as {{ experience.role }}
 FEATURES             Location/Qualifiers
      source          1..10
                      /organism="Homo sapians"
-		     {{ experience.details | markdownify }}
+{% for item in experience.details %}
+     CDS             1..10
+                     /note={{ item | markdownify }}
+{% endfor %}
+ORIGIN
+ACGT
+//
 </pre>
   </div>
   {% endfor %}
   </div>
-  {% for experience in experiences %}
-  <div class="item">
-
-    <div class="meta">
-
-      <div class="upper-row">
-        <h3 class="job-title">{{ experience.role }}</h3>
-        <div class="time">{{ experience.time }}</div>
-      </div><!--//upper-row-->
-
-      <div class="company">{{ experience.company }}</div>
-
-    </div><!--//meta-->
-
-    {% if experience.details %}
-    <div class="details">
-      {{ experience.details | markdownify }}
-    </div><!--//details-->
-    {% endif %}
-
-  </div><!--//item-->
-  {% endfor %}
 
 </section><!--//section-->
 {% endif %}
