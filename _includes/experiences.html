@@ -24,9 +24,9 @@ FEATURES             Location/Qualifiers
 {% assign note = "" %}
 {% for word in words %}
 {% assign note = note | append: word %}
+{% endfor %}
      CDS             1..10
                      /note="{{ note }}"
-{% endfor %}
 {% endfor %}
 ORIGIN
 ACGT
