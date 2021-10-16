@@ -23,7 +23,8 @@ FEATURES             Location/Qualifiers
 {% assign i = 0 %}
 {% assign note = "" %}
 {% for word in words %}
-{% assign note = note | append: word %}
+{% assign i = i | plus: 1 %}
+{% assign note = note | append: word | append: i %}
 {% endfor %}
      CDS             1..10
                      /note="{{ note }}"
