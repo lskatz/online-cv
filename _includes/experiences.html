@@ -24,9 +24,10 @@ FEATURES             Location/Qualifiers
 {% assign note = "" %}
 {% for word in words %}
 {% assign i = i | plus: 1 %}
-{% assign mod = i | modulo: 60 %}
+{% assign mod = i | modulo: 5 %}
 {% assign note = note | append: word | append: " " %}
 {% if mod == 0 %}
+{% node = note | append: "\n" %}
 {% endif %}
 {% endfor %}
      CDS             1..10
