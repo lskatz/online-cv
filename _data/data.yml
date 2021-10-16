@@ -58,7 +58,7 @@ experiences:
     - role: Senior bioinformatician
       time: 2014 - present
       company: DFWED, CDC
-      details: |
+      details: 
         - Facilitating interagency whole genome sequencing standards and analysis working group. This is a working group under the Genomics Food Safety collaboration (Gen-FS) between CDC, FDA, USDA, and NCBI. Determination of fact-based thresholds for whole genome sequencing to aid in the missions of CDC, FDA, USDA, and NCBI. Creation of whole genome sequencing benchmark datasets. Creation of a data download script. Datasets and script published in Timme et al 2017. I am senior author. I have also reached out to other labs at CDC including the Legionella lab to help contribute datasets. We meet once a month, and I facilitate the calls and record notes for the group.
         - Facilitating international workgroup under the Global Microbial Identifier (GMI). My workgroup (workgroup 3) focuses on data analytics. Benchmark datasets from Gen-FS have been donated to this group and we have collected datasets from international partners.
         - Advisor for GIGte, the monthly division-wide workshop in bioinformatics
