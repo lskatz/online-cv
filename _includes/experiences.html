@@ -18,9 +18,15 @@ DEFINITION  Worked as {{ experience.role }}
 FEATURES             Location/Qualifiers
      source          1..10
                      /organism="Homo sapiens"
-{% for item in experience.details %}
      CDS             1..10
-                     /note={{ item | markdownify }}
+                     /note=blah
+{% for item in experience.details %}
+{% assign words = item | split " " %}
+{% assign i = 0 %}
+{% for word in words %}
+{{ word }} 
+{% assign i = i | plus: 1 %}
+{% endfor %}
 {% endfor %}
 ORIGIN
 ACGT
