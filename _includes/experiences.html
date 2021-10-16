@@ -21,7 +21,7 @@ FEATURES             Location/Qualifiers
 {% for item in experience.details %}
      CDS             1..10
                      /note=blah
-{% assign word = item | split " " %}
+{% assign word = item | split: " " %}
 {{ word }}
 {% endfor %}
 ORIGIN
