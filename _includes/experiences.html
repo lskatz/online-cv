@@ -21,12 +21,6 @@ FEATURES             Location/Qualifiers
      CDS             1..10
                      /note=blah
 {% for item in experience.details %}
-{% assign words = item | split " " %}
-{% assign i = 0 %}
-{% for word in words %}
-{{ word }} 
-{% assign i = i | plus: 1 %}
-{% endfor %}
 {% endfor %}
 {% endfor %}
 ORIGIN
