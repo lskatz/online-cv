@@ -19,10 +19,12 @@ FEATURES             Location/Qualifiers
      source          1..10
                      /organism="Homo sapiens"
 {% for item in experience.details %}
-     CDS             1..10
-                     /note=blah
 {% assign word = item | split: " " %}
 {{ word }}
+{% assign i = 0 %}
+{% assign note = word[0] %}
+     CDS             1..10
+                     /note={{ note }}
 {% endfor %}
 ORIGIN
 ACGT
