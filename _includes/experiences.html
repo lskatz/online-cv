@@ -12,8 +12,14 @@
   <div style="font-family:monospace;font-weight:bold">
   {% for experience in experiences %}
   <div class="item">
-  LOCUS {{ experience.company }} 1000bp DNA {{ experience.time }} <br />
-  DEFINITION Worked as {{ experience.role }}
+<pre>
+LOCUS       {{ experience.company }}  1000bp  DNA  {{ experience.time }} 
+DEFINITION  Worked as {{ experience.role }} 
+FEATURES             Location/Qualifiers
+     source          1..10
+                     /organism="Homo sapians"
+		     {{ experience.details | markdownify }}
+</pre>
   </div>
   {% endfor %}
   </div>
