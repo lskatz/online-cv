@@ -11,8 +11,10 @@
 
   <div style="font-family:monospace;font-weight:bold">
   {% for experience in experiences %}
+  <div class="item">
   LOCUS {{ experience.company }} 1000bp DNA {{ experience.time }} <br />
   DEFINITION Worked as {{ experience.role }}
+  </div>
   {% endfor %}
   </div>
   {% for experience in experiences %}
