@@ -18,18 +18,18 @@ DEFINITION  Worked as {{ experience.role }}
 FEATURES             Location/Qualifiers
      source          1..10
                      /organism="Homo sapiens"
-{% for item in experience.details %}
-{% assign words = item | split: " " %}
-{% assign i = 0 %}
-{% assign note = "" %}
-{% for word in words %}
-{% assign i = i | plus: 1 %}
-{% assign mod = i | modulo: 5 %}
-{% assign note = note | append: word | append: " " %}
-{% if mod == 0 %}
-{% assign note = note | append: "<br />\n" %}
-{% endif %}
-{% endfor %}
+{%- for item in experience.details -%}
+{%- assign words = item | split: " " -%}
+{%- assign i = 0 -%}
+{%- assign note = "" -%}
+{%- for word in words -%}
+{%- assign i = i | plus: 1 -%}
+{%- assign mod = i | modulo: 5 -%}
+{%- assign note = note | append: word | append: " " -%}
+{%- if mod == 0 -%}
+{%- assign note = note | append: "<br />\n" -%}
+{%- endif -%}
+{%- endfor -%}
      CDS             1..10
                      /note="{{ note }}"
 {% endfor %}
