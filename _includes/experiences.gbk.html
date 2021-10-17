@@ -18,7 +18,6 @@ DEFINITION  Worked as {{ experience.role }}
 FEATURES             Location/Qualifiers
      source          1..10
                      /organism="Homo sapiens"
-
 {%- for item in experience.details -%}
 {%- assign words = item | split: " " -%}
 {%- assign i = 0 -%}
@@ -31,6 +30,7 @@ FEATURES             Location/Qualifiers
 {%- assign product = product | append: "<br />                     " -%}
 {%- endif -%}
 {%- endfor -%}
+
      CDS             1..10
                      /product="{{ product }}"
 {% endfor %}
