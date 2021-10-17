@@ -1,0 +1,47 @@
+{% assign experiences = site.data.data.experiences %}
+{% if experiences %}
+<section class="section experiences-section">
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-briefcase fa-stack-1x fa-inverse"></i>
+    </span>
+    Experiences
+  </h2>
+
+  <div style="font-family:monospace;font-weight:bold">
+  {% for experience in experiences %}
+  <div class="item">
+<pre>
+LOCUS       {{ experience.company }}  1000bp  DNA  {{ experience.time }} 
+DEFINITION  Worked as {{ experience.role }} 
+FEATURES             Location/Qualifiers
+     source          1..10
+                     /organism="Homo sapiens"
+
+{%- for item in experience.details -%}
+{%- assign words = item | split: " " -%}
+{%- assign i = 0 -%}
+{%- assign product = "" -%}
+{%- for word in words -%}
+{%- assign i = i | plus: 1 -%}
+{%- assign mod = i | modulo: 5 -%}
+{%- assign product = product | append: word | append: " " -%}
+{%- if mod == 0 -%}
+{%- assign product = product | append: "<br />                     " -%}
+{%- endif -%}
+{%- endfor -%}
+     CDS             1..10
+                     /product="{{ product }}"
+{% endfor %}
+ORIGIN
+ACGT
+//
+</pre>
+  </div>
+  {% endfor %}
+  </div>
+
+</section><!--//section-->
+{% endif %}
+

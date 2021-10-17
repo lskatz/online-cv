@@ -9,37 +9,28 @@
     Experiences
   </h2>
 
-  <div style="font-family:monospace;font-weight:bold">
   {% for experience in experiences %}
   <div class="item">
-<pre>
-LOCUS       {{ experience.company }}  1000bp  DNA  {{ experience.time }} 
-DEFINITION  Worked as {{ experience.role }} 
-FEATURES             Location/Qualifiers
-     source          1..10
-                     /organism="Homo sapiens"
-{%- for item in experience.details -%}
-{%- assign words = item | split: " " -%}
-{%- assign i = 0 -%}
-{%- assign note = "" -%}
-{%- for word in words -%}
-{%- assign i = i | plus: 1 -%}
-{%- assign mod = i | modulo: 5 -%}
-{%- assign note = note | append: word | append: " " -%}
-{%- if mod == 0 -%}
-{%- assign note = note | append: "<br />                     " -%}
-{%- endif -%}
-{%- endfor -%}
-     CDS             1..10
-                     /note="{{ note }}"
-{% endfor %}
-ORIGIN
-ACGT
-//
-</pre>
-  </div>
+
+    <div class="meta">
+
+      <div class="upper-row">
+        <h3 class="job-title">{{ experience.role }}</h3>
+        <div class="time">{{ experience.time }}</div>
+      </div><!--//upper-row-->
+
+      <div class="company">{{ experience.company }}</div>
+
+    </div><!--//meta-->
+
+    {% if experience.details %}
+    <div class="details">
+      {{ experience.details | markdownify }}
+    </div><!--//details-->
+    {% endif %}
+
+  </div><!--//item-->
   {% endfor %}
-  </div>
 
 </section><!--//section-->
 {% endif %}
