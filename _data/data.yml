@@ -105,7 +105,7 @@ experiences:
       time: August 2020 - April 2021
       company: CDC
       details: 
-        - DFWED/NWSS/tiger team - Oct 2021 - Dec 2021
+        - "*DFWED/NWSS/tiger team - Oct 2021 - Dec 2021*"
 
           * NWSS created a tiger team with members across the division
           * NWSS objective is to create a set of standards for wastewater SARS-CoV-2 metagenomics sequencing and analysis
@@ -182,42 +182,45 @@ experiences:
     - role: Bioinformatician
       time: 2010 - 2011
       company: Meningitis Lab
-      details: |
-        * Supervisor Dr. L. W. Mayer, Contracting company Logistics Health Incorporated
-        * Collaborating with the Jordan Lab, Georgia Institute of Technology
-        * Lead developer of CG-Pipeline (see publications and nbase.biology.gatech.edu)
-        * Lead developer of NBase (see publications and nbase.biology.gatech.edu)
-        * Working on species molecular typing between Haemophilus influenzae and H. haemolyticus; molecular typing on Neisseria meningitidis and Bordetella spp.
-        * Studying antimicrobial resistance mutations for rifampin, penicillin, and ciprofloxacin
-        * Some overlap with finishing my dissertation between September and November
+      details: 
+        - Supervisor Dr. L. W. Mayer, Contracting company Logistics Health Incorporated
+        - Collaborating with the Jordan Lab, Georgia Institute of Technology
+        - Lead developer of CG-Pipeline (see publications and nbase.biology.gatech.edu)
+        - Lead developer of NBase (see publications and nbase.biology.gatech.edu)
+        - Working on species molecular typing between Haemophilus influenzae and H. haemolyticus; molecular typing on Neisseria meningitidis and Bordetella spp.
+        - Studying antimicrobial resistance mutations for rifampin, penicillin, and ciprofloxacin
+        - Some overlap with finishing my dissertation between September and November
     - role: PhD Candidate
       time: 2006 - 2010
       company: GA Institute of Technology
-      details: |
-        * Collaborating with the Meningitis and Vaccine Preventable Diseases Branch (MVPDB) of Centers for Disease Control and Prevention (CDC) and with the Core Facility of CDC
-        * Developed a database of genomes called Neisseria Base at http://nbase.biology.gatech.edu
-        * Assembled and annotated new genomes using 454 pyrosequencing data.
-        * Supervised a team of bioinformatics M.S. and Ph.D. students
-        * Compared genomes to discover SNPs and to ascertain their biological relevance to pathogenesis
-        * Collaboration with Influenza Sequencing Lab at CDC (PoC: John Barnes)
+      details: 
+        - Collaborating with the Meningitis and Vaccine Preventable Diseases Branch (MVPDB) of Centers for Disease Control and Prevention (CDC) and with the Core Facility of CDC
+        - Developed a database of genomes called Neisseria Base at http://nbase.biology.gatech.edu
+        - Assembled and annotated new genomes using 454 pyrosequencing data.
+        - Supervised a team of bioinformatics M.S. and Ph.D. students
+        - Compared genomes to discover SNPs and to ascertain their biological relevance to pathogenesis
+        - Collaboration with Influenza Sequencing Lab at CDC (PoC: John Barnes)
+
           * Creating a platform InGen
           * Created a typing platform similar to MLST for influenza called Sequence Typing and Reassortant Screen (STaRS)
           * Being used around the world including the US, Egypt, and Bangladesh
-        * Meningococcus Genome Informatics Platform
+        - Meningococcus Genome Informatics Platform
+
           * Created MGIP as a website at http://mgip.biology.gatech.edu
           * The code lives at https://sourceforge.net/projects/mgip/
           * MGIP has become a standard for multilocus sequence typing (MLST) data analysis, and has also been expanded to encompass other molecular typing data
           * World-renown labs such as the MVPDB Lab at CDC and Martin Maiden's lab are in support of * MGIP as the world-wide standard MLST software
           * MGIP is being expanded to aid in the typing of influenza, in collaboration with the CDC Flu Lab
-        * First research project in PhD, one semester rotation
+        - First research project in PhD, one semester rotation
+
           * PI: Todd Streelman
           * Topic was cichlid evolution; resulted in publication: Loh et al
     - role: MS Student
       time: 2004 - 2005
       company: GA Institute of Technology
-      details: |
-        * Took core classes for bioinformatics including bioinformatics, statistics, molecular structures
-        * Studied microRNA in Soojin Yi's lab
+      details: 
+        - Took core classes for bioinformatics including bioinformatics, statistics, molecular structures
+        - Studied microRNA in Soojin Yi's lab
 
 projects:
     title: Chairing and awards
