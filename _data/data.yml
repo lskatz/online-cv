@@ -59,7 +59,16 @@ experiences:
       time: 2014 - present
       company: DFWED, CDC
       details: 
-        - Facilitating interagency whole genome sequencing standards and analysis working group. This is a working group under the Genomics Food Safety collaboration (Gen-FS) between CDC, FDA, USDA, and NCBI. Determination of fact-based thresholds for whole genome sequencing to aid in the missions of CDC, FDA, USDA, and NCBI. Creation of whole genome sequencing benchmark datasets. Creation of a data download script. Datasets and script published in Timme et al 2017. I am senior author. I have also reached out to other labs at CDC including the Legionella lab to help contribute datasets. We meet once a month, and I facilitate the calls and record notes for the group.
+        - Facilitating interagency whole genome sequencing standards and analysis working group. 
+          
+          * This is a working group under the Genomics Food Safety collaboration (Gen-FS) between CDC, FDA, USDA, and NCBI. 
+          * Determination of fact-based thresholds for whole genome sequencing to aid in the missions of CDC, FDA, USDA, and NCBI. 
+          * Creation of whole genome sequencing benchmark datasets. 
+          * Creation of a data download script.
+          * Datasets and script published in Timme et al 2017; I am senior author. 
+          * I have also reached out to other labs at CDC including the Legionella lab to help contribute datasets. 
+          * We meet once a month, and I facilitate the calls and record notes for the group.
+
         - Facilitating international workgroup under the Global Microbial Identifier (GMI). My workgroup (workgroup 3) focuses on data analytics. Benchmark datasets from Gen-FS have been donated to this group and we have collected datasets from international partners.
         - Advisor for GIGte, the monthly division-wide workshop in bioinformatics
         - Member of MCT-DART
@@ -95,41 +104,41 @@ experiences:
     - role: COVID-19 response, CDC
       time: August 2020 - April 2021
       company: CDC
-      details: |
-        *DFWED/NWSS/tiger team - Oct 2021 - Dec 2021*
+      details: 
+        - *DFWED/NWSS/tiger team - Oct 2021 - Dec 2021*
 
-        * NWSS created a tiger team with members across the division
-        * NWSS objective is to create a set of standards for wastewater SARS-CoV-2 metagenomics sequencing and analysis
-        * Supporting the team with bioinformatics insights
-        * Guiding the bioinformatics activities
+          * NWSS created a tiger team with members across the division
+          * NWSS objective is to create a set of standards for wastewater SARS-CoV-2 metagenomics sequencing and analysis
+          * Supporting the team with bioinformatics insights
+          * Guiding the bioinformatics activities
 
-        *Team lead, Technical Outreach and Assistances to States Team (TOAST) - Jan 2021-April 2021"*
+        - *Team lead, Technical Outreach and Assistances to States Team (TOAST) - Jan 2021-April 2021"*
 
-        * Team Lead for 10 members, plus me
-        * Under OAMD; my supervisors were Greg Armstrong and Duncan MacCannell
-        * Provided technical assistance to state/local labs
-        * Gave two SPHERES talks of 15 minutes each
-        * Created "menu" of protocols on protocols.io
-        * Benchmark datasets - paper is being planned. 5 datasets of 1 outbreak, 2 coronahit datasets, 1 of various lineages, 1 of bad data.
-          * Manuscript in preparation
-        * Data viz recommendations
-        * One-off help
-        * Created system to triage questions
-        * Created and led TOAST office hours, similar to 50 state calls 1/wk
-        * Led BRR calls 1/wk
-        * Gap analysis/needs assessment with fishbone diagram
+          * Team Lead for 10 members, plus me
+          * Under OAMD; my supervisors were Greg Armstrong and Duncan MacCannell
+          * Provided technical assistance to state/local labs
+          * Gave two SPHERES talks of 15 minutes each
+          * Created "menu" of protocols on protocols.io
+          * Benchmark datasets - paper is being planned. 5 datasets of 1 outbreak, 2 coronahit datasets, 1 of various lineages, 1 of bad data.
+            * Manuscript in preparation
+          * Data viz recommendations
+          * One-off help
+          * Created system to triage questions
+          * Created and led TOAST office hours, similar to 50 state calls 1/wk
+          * Led BRR calls 1/wk
+          * Gap analysis/needs assessment with fishbone diagram
         
-        *QA/QC for WGS: SneakerNet SARS-CoV-2 workflow*
+        - *QA/QC for WGS: SneakerNet SARS-CoV-2 workflow*
 
-        * Created QA/QC pipeline for primary data QA/QC for SARS-CoV-2 from Illumina
-        * SneakerNet framework - github.com/lskatz/sneakernet
-        * Created additional workflow for transferring CLIA reads to the correct place for the EDLB/CLIA team to analyze further under CLIA framework
+          * Created QA/QC pipeline for primary data QA/QC for SARS-CoV-2 from Illumina
+          * SneakerNet framework - github.com/lskatz/sneakernet
+          * Created additional workflow for transferring CLIA reads to the correct place for the EDLB/CLIA team to analyze further under CLIA framework
 
-        *Clinical Team, supervisors Drs. Karen Wong and James Lee; August - October 2020*
+        - *Clinical Team, supervisors Drs. Karen Wong and James Lee; August - October 2020*
 
-        * Reinfections project
-        * Gave 101 presentation to clinical people on genomics
-        * Published reinfections paper - James Lee et al 2021
+          * Reinfections project
+          * Gave 101 presentation to clinical people on genomics
+          * Published reinfections paper - James Lee et al 2021
     - role: Senior bioinformatician
       time: 2011 - 2015
       company: LYVE Lab
