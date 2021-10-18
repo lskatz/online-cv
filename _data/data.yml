@@ -113,7 +113,8 @@ experiences:
           * Supporting the team with bioinformatics insights
           * Guiding the bioinformatics activities
 
-        - "*Team lead, Technical Outreach and Assistances to States Team (TOAST) - Jan 2021-April 2021*"
+        - |
+          "*Team lead, Technical Outreach and Assistances to States Team (TOAST) - Jan 2021-April 2021*"
 
           * Team Lead for 10 members, plus me
           * Under OAMD; my supervisors were Greg Armstrong and Duncan MacCannell
@@ -129,7 +130,8 @@ experiences:
           * Led BRR calls 1/wk
           * Gap analysis/needs assessment with fishbone diagram
         
-        - "*QA/QC for WGS: SneakerNet SARS-CoV-2 workflow*"
+        - |
+          "*QA/QC for WGS: SneakerNet SARS-CoV-2 workflow*"
 
           * Created QA/QC pipeline for primary data QA/QC for SARS-CoV-2 from Illumina
           * SneakerNet framework - github.com/lskatz/sneakernet
@@ -143,7 +145,7 @@ experiences:
     - role: Senior bioinformatician
       time: 2011 - 2015
       company: LYVE Lab
-      details: |
+      details: 
         - Analyzing genomes of L. monocytogenes from clinical and food samples across the United States and the world.
         - Providing phylogenies of whole genomes for the purposes of molecular epidemiology
         - Helped investigate outbreak cases in Crave Brothers Cheese, Roos Foods, and many unsolved cases
@@ -155,7 +157,8 @@ experiences:
         - Studying Haiti cholera outbreak through comparative genomics. Studying in vivo evolution of V. cholerae. Helped choose isolates to sequence based on PFGE patterns. Katz et al 2013.
         - Predicting PCR assay targets for serogroups O75 and O141 (from recent US outbreaks) Characterizing an Iraqi genome with an odd phage arrangement
         - Continuing as lead developer for CG-Pipeline and MGIP, but also transferring duties for MGIP development back to the Meningitis and Jordan Labs
-        - Real time genomics
+        - |
+          Real time genomics
 
           * Analyzing genomes of L. monocytogenes from clinical and food samples across the United States and the world.
           * Providing phylogenies of whole genomes for the purposes of molecular epidemiology
@@ -163,19 +166,22 @@ experiences:
           * Creation of SneakerNet. This bioinformatics workflow is how we quality-control all raw reads from an Illumina instrument (read counts, quality scores, contamination detection), transfer data to the data repository, and email a report. I also created a job aid under QMS for following the SneakerNet protocol. Concurrently, I also helped in other QMS documents for data transfer and QC such as the Access database protocol.
           * Creation of a data repository. With colleagues, administered a 40TB machine to hold all raw data and a data recovery plan. Also created network folders accessible to Windows machines with read only access. Created the file structure needed for long term organization.
           * Uploading data to SRA immediately after sequencing. I developed and followed a protocol for sending sequences to SRA. I also developed a job aid under QMS for uploading sequences to SRA.
-        - Computational genomics of Vibrio
+        - |
+          Computational genomics of Vibrio
 
           * Studying virulence factors in whole genomes of Vibrio spp.
           * Studying Haiti cholera outbreak through comparative genomics. Studying in vivo evolution of V. cholerae. Helped choose isolates to sequence based on PFGE patterns. Katz et al 2013.
           * Predicting PCR assay targets for serogroups O75 and O141 (from recent US outbreaks)
           * Characterizing an Iraqi genome with an odd phage arrangement
-        - Computational genomics of STEC
+        - |
+          Computational genomics of STEC
 
           * Acting as a bioinformatics liaison between Expression Analysis who generated PacBio and Illumina data for 250 STEC genomes, my branch at CDC, and the SRA contracting group who is analyzing the data.
           * Also working as a bioinformatics liaison with DNAStar for additional analysis of the sequencing data.
           * Searching for a core genome, for making a whole genome MLST scheme Several additional analyses
           * Creating a standardized pipeline for analyzing PacBio data, for use in CG-Pipeline
-        - Metagenomics of stool
+        - |
+          Metagenomics of stool
 
           * Planning a metagenomics project where DNA in stool is sequenced.
           * Pathogen discovery
