@@ -34,6 +34,27 @@ sidebar:
       - idiom: Spanish
         level: Rusty
 
+      - idiom: Hebrew
+        level: I can only read it phonetically and slowly
+
+      - idiom: Perl
+        level: Expert
+
+      - idiom: Rust
+        level: Intermediate
+      - idiom: SQL
+        level: Intermediate but rusty
+      - idiom: Python
+        level: Beginner
+      - idiom: PHP
+        level: Rusty
+      - idiom: JavaScript
+        level: Rusty
+      - idiom: C
+        level: Beginner and rusty
+      - idiom: HTML, CSS
+        level: Intermediate
+
     #interests:
     #  - item: Climbing
     #    link:
@@ -52,6 +73,12 @@ education:
     - degree: MS in Bioinformatics
       university: Georgia Institute of Technology
       time: 2005
+    - degree: BS in Biology
+      university: Emory University
+      time: 2004
+    - degree: AA with a concentration in Biology
+      university: Emory University
+      time: 2002
       #details: |
       #  Describe your study here lorem ipsum dolor sit amet, consectetuer
 experiences:
