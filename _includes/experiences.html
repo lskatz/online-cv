@@ -27,7 +27,8 @@
     <div class="details">
       {% for item in experience.details %}
       <div>
-      {{ item | markdownify }}
+	<strong>{{ item.title }}</strong>
+      {{ item.details | markdownify }}
       </div>
       {% endfor %}
     </div><!--//details-->

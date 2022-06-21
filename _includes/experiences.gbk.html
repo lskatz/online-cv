@@ -9,39 +9,34 @@
     Experiences
   </h2>
 
-  <div style="font-family:monospace;font-weight:bold">
-  {% for experience in experiences %}
-  <div class="item">
-<pre>
+<pre style="font-family:monospace;font-weight:bold">
+{%- for experience in experiences -%}
 LOCUS       {{ experience.company }}  1000bp  DNA  {{ experience.time }} 
-DEFINITION  Worked as {{ experience.role }} 
+DEFINITION  Working as {{ experience.role }} 
 FEATURES             Location/Qualifiers
      source          1..10
                      /organism="Homo sapiens"
 {%- for item in experience.details -%}
-{%- assign words = item | split: " " -%}
+{%- assign words = item.title | split: " " -%}
 {%- assign i = 0 -%}
 {%- assign product = "" -%}
-{%- for word in words -%}
+{% for word in words %}
 {%- assign i = i | plus: 1 -%}
 {%- assign mod = i | modulo: 5 -%}
 {%- assign product = product | append: word | append: " " -%}
 {%- if mod == 0 -%}
 {%- assign product = product | append: "<br />                     " -%}
 {%- endif -%}
-{%- endfor -%}
-
+{% endfor %}
      CDS             1..10
                      /product="{{ product }}"
-{% endfor %}
-ORIGIN
-ACGT
-//
-</pre>
-  </div>
-  {% endfor %}
-  </div>
+{%- endfor -%}
+<br />ORIGIN
+ACGTACGT
+//<br />
+{%- endfor -%}
 
+</pre>
 </section><!--//section-->
 {% endif %}
 
